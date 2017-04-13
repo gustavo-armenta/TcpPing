@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpPing", "TcpPing\TcpPing.csproj", "{96E51EAC-0A80-409B-BFD1-8BB9980BACEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpPingLib", "TcpPingLib\TcpPingLib.csproj", "{20A20DB5-8E1F-450E-B2F2-D8E89D2B7850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E51EAC-0A80-409B-BFD1-8BB9980BACEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E51EAC-0A80-409B-BFD1-8BB9980BACEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E51EAC-0A80-409B-BFD1-8BB9980BACEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E51EAC-0A80-409B-BFD1-8BB9980BACEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A20DB5-8E1F-450E-B2F2-D8E89D2B7850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A20DB5-8E1F-450E-B2F2-D8E89D2B7850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A20DB5-8E1F-450E-B2F2-D8E89D2B7850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A20DB5-8E1F-450E-B2F2-D8E89D2B7850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
